@@ -2,7 +2,7 @@ body
 {
     background-image: url(bg2.jpg);
     background-position: center;
- 
+ backface-visibility: relative;
     background-size: cover;
     width:800px;
     height:fit-content;
